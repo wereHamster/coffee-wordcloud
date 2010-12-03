@@ -1,0 +1,20 @@
+[
+  {"key":"house.*720p.*","value":623},
+  {"key":"spartacus.*720p.*","value":932},
+  {"key":"24.*720p.*","value":183},
+  {"key":"caprica.*720p.*","value":123},
+  {"key":"star.wars.*720p.*","value":136},
+  {"key":"real.time.with.bill.maher.*","value":357},
+  {"key":"the.simpsons.*720p.*","value":247},
+  {"key":"csi\\s+.*720p.*","value":348},
+  {"key":"the.amazing.race.*","value":245},
+  {"key":"the.big.bang.theory.*720p.*","value":862},
+  {"key":"the.mentalist.*720p.*","value":857},
+  {"key":"desperate.housewives.*720p.*","value":772},
+  {"key":"two.and.a.half.men.*720p.*","value":924},
+  {"key":"stargate.universe.*720p.*","value":754},
+  {"key":"ncis.*720p.*","value":477},
+  {"key":"ncis:.losangeles.*720p.*","value":761},
+  {"key":"bones.*720p.*","value":624},
+  {"key":"60.minutes.*","value":136}
+]
